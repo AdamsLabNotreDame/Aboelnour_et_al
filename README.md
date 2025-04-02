@@ -14,7 +14,4 @@ DOI: 10.5281/zenodo.8338963
 
 # Code
 
-This code is intended to serve as a repository to observe how the data was processed and analyzed. To run code, several packages 
-must be installed, including both R and python packages. We prefer using a conda/mamba environment, and to facilitate the setup 
-we have provided the sysVI.yml (integrations with sysVI or scVI tools were performed in this environment) and edgeR.yml, r_packages.txt
-(all differential expression analysis, and most of the figure generation), these contain all conda and pip installable dependencies.
+This code is intended to serve as a repository showing how data was processed and analyzed in the manuscript (Aboelnour et al. 2025). To run code, several packages must be installed, including both R and python packages. We prefer using a conda/mamba environment, and to facilitate the setup we have provided the sysVI.yml (integrations with sysVI or scVI tools were performed in this environment) and edgeR.yml, r_packages.txt (all differential expression analysis, and most of the figure generation), these contain all conda and pip installable dependencies.
