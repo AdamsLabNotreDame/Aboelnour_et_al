@@ -7,7 +7,7 @@ https://www.biorxiv.org/content/10.1101/2025.03.24.645058v1
 # GEO data (mouse datasets):
 Pandey et al. 2022: GSE182846
 Shen et al. 2021: GSE148676
-this publication: being deposited ASAP
+this publication: GSE293850
 
 # Zenodo data (human dataset):
 DOI: 10.5281/zenodo.8338963
