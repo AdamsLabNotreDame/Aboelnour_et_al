@@ -14,7 +14,7 @@ DOI: 10.5281/zenodo.8338963
 
 # Code:
 This code is intended to serve as a repository showing how data was processed and analyzed in the manuscript (Aboelnour et al. 2025) currently on biorxiv. The code was run using numerous packages that must be installed to repeat the analyses, including both R and python packages. We prefer using 
-a conda/mamba environment, and to facilitate the setup we have provided yml files containing all conda and pip installable dependencies. We include the cellbedner.yml (run on command line), sysVI.yml (integrations performed with sysVI or scVI tools were performed in this environment), and the edgeR.yml with corresponding r_packages.txt (all differential expression analysis, and most of the figure generation).
+a conda/mamba environment, and to facilitate the setup we have provided yml files containing all conda and pip installable dependencies. We include the cellbender.yml (run on command line), sysVI.yml (integrations performed with sysVI or scVI tools were performed in this environment), and the edgeR.yml with corresponding r_packages.txt (all differential expression analysis, and most of the figure generation).
 
 # Important citations and resources:
 
