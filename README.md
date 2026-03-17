@@ -2,7 +2,7 @@
 Analysis scripts of single cell and single nuclei transcriptomic data of the subcortical white matter from mice treated with either lysophosphatidylcholine (LPC) and cuprizone toxicity models, and compared to human MS dataset.
 
 # Manuscript link:
-https://www.biorxiv.org/content/10.1101/2025.03.24.645058v1 
+https://www.biorxiv.org/content/10.1101/2025.03.24.645058v2
 
 # GEO data (mouse datasets):
 Pandey et al. 2022: GSE182846
